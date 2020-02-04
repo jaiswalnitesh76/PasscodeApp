@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lockpattern_change_lock_pattern_label">Hello</string>
+</resources>
